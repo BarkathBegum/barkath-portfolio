@@ -11,14 +11,14 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro2,
-        title: "Ecomerce 222 Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, any inspires a grounded",
+        title: "Spring Boot Rest API",
+        text: "Developing Rest API with effective business logic",
         view:"url.com"
     },
     {
         imgsrc: pro3,
-        title: "Ecomerce 333 Website Design",
-        text: "Thriving Facebook community and top-ranked podcast, any inspires a grounded",
+        title: "AWS Deployment",
+        text: "Experience with EC2 Instances, S3, Dynamo DB, Elastic search",
         view:"url.com"
     }
 ];
